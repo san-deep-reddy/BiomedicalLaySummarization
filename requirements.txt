@@ -1,0 +1,15 @@
+pandas
+ipykernel
+accelerate
+transformers
+datasets
+tensorboard
+tensorboardX
+pytorch_metric_learning
+scann
+spacy
+scispacy
+elasticsearch
+networkx
+unidecode
+tf-keras
